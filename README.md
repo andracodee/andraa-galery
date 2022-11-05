@@ -1,9 +1,4 @@
-Andraa 's Gallery
+#Andraa 's Gallery
 
 
-Thanks To:
-1.Mark Otto
-
-2.Jacob Thornton 
-
-3.Bootstrap contributors
+Thanks To:Mark Otto,Jacob Thornton and Bootstrap contributors
